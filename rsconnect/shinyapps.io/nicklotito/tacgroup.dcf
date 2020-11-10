@@ -1,0 +1,12 @@
+name: tacgroup
+title: tacgroup
+username:
+account: nicklotito
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3202783
+bundleId: 3843236
+url: https://nicklotito.shinyapps.io/tacgroup/
+when: 1605021209.45839
+asMultiple: FALSE
+asStatic: FALSE
